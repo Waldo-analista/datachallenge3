@@ -1,0 +1,150 @@
+{
+    "perfil": [{ "usuario": "admin", "password": "9admin9" }],
+    "productos": [
+      {
+        "nombre": "Leggin Diseño Blanco y Negro",
+        "precio": "$ 15.000",
+        "imagen": "https://i.ibb.co/T2rq2zQ/leggin-dise-o-blanco-negro.jpg",
+        "id": 1,
+        "categoria": "gym",
+        "descripcion": "Producto elasticado blanco y negro 100% ajustado a las piernas y con tela transpirable. Ideal para usar en el gimnasio o en actividades deportivas donde no exista riesgo de abrasión sobre la tela."
+      },
+      {     
+      "nombre": "Leggin Diseño Tie Dye Rosa",
+      "precio": "$ 20.000",
+      "imagen": "https://i.ibb.co/nr3Z9dH/leggin-tie-rosa.jpg",
+      "id": 2,
+      "categoria": "gym",
+      "descripcion": "Moderno y atractivo leggin tie dye rosa con el que llamarás la atención en todo escenario fitness. Leggins elasticadas con calce perfecto a tu cuerpo."
+      },
+      {
+        "nombre":"Conjunto Diseño Tie Dye Amarillo",
+        "precio":"$ 40.000",
+        "imagen":"https://i.ibb.co/GRw9KCd/conjunto-tie-dye-amarillo.jpg",
+        "id":3,
+        "categoria":"gym",
+        "descripcion":"Conjunto Tie Dye amarillo atractivo"
+      },
+      {
+        "nombre": "Conjunto Diseño Gradiente Colores",
+        "precio":"$ 30.000",
+        "imagen":"https://i.ibb.co/LdbZryW/conjunto-gradiente.jpg",
+        "id":4,
+        "categoria":"gym",
+        "descripcion":"Conjunto Peto y Leggins diseño gradiente colores"
+      },
+      {
+        "nombre":"Leggin Diseño Tie Dye Amarillo",
+        "precio":"$ 20.000",
+        "imagen":"https://i.ibb.co/YQzJRdw/leggin-tie-amarilla.jpg",
+        "id":5,
+        "categoria":"gym",
+        "descripcion":"Leggin Diseño Tie Dye Amarillo 100% ajustable al cuerpo. Diseño muy atractivo."
+      },
+      {
+        "nombre":"Conjunto Diseño Tie Dye Verde Fluor",
+        "precio":"$ 40.000",
+        "imagen":"https://i.ibb.co/zZJ8RjH/conjunto-tie-dye-verde.jpg",
+        "id":6,
+        "categoria":"gym",
+        "descripcion":"Conjunto Peto y Leggin Tie Dye Verde Fluor ideal para brillar y relucir tus curvas. Diseño Fluor transpirable ideal para toda actividad en donde no exista riesgo de abrasión a la tela"
+      },
+      {
+        "nombre":"Chaqueta Rosa Cuello V",
+        "precio":"$ 75.000",
+        "imagen":"https://i.ibb.co/PYX1Nr8/chaqueta-rosa.jpg",
+        "id":7,
+        "categoria":"oficina",
+        "descripcion":"Chaqueta Rosa Cuello en V ideal para eventos formales en ambientes juveniles."
+      },
+      {
+        "nombre":"Camiseta Animal Print Leopardo",
+        "precio":"$ 35.000",
+        "imagen":"https://i.ibb.co/zFLhPfN/camiseta-animal-print-leopardo.jpg",
+        "id":8,
+        "categoria":"oficina",
+        "descripcion":"Camiseta Animal Print Leopardo con cuello alto ideal para lucir con estilo en ambientes formales juveniles."
+      },
+      {
+        "nombre":"Zapatos Tacon Medio",
+        "precio":"$ 55.000",
+        "imagen":"https://i.ibb.co/HGcXmZR/zapatos-tacon-medio.jpg",
+        "id":9,
+        "categoria":"oficina",
+        "descripcion":"Zapatos Tacon Medio con broche decorativo en la punta. Son perfectos para combinar con pantalones oscuros en los cuales el broche relucirá."
+      },
+      {
+        "nombre":"Blusa Animal Print Leopardo Blanca",
+        "precio":"$ 35.000",
+        "imagen":"https://i.ibb.co/k15sN8Q/blusa-animal-print-leopardo-blanca.jpg",
+        "id":10,
+        "categoria":"oficina",
+        "descripcion":"Blusa animal print blanca con cuello alto ideal epoca otoño-invierno. Se ajusta al contorno de tu cuerpo definiendo curvas."
+      },
+      {
+        "nombre":"Blusa Clásica Negra",
+        "precio":"$ 30.000",
+        "imagen":"https://i.ibb.co/1ZX2txm/blusa-clasica-negra.jpg",
+        "id":11,
+        "categoria":"oficina",
+        "descripcion":"Blusa clásica negra de tela formal"
+      },
+      {
+        "nombre":"Pantalón Cintura Alta",
+        "precio":"$ 60.000",
+        "imagen":"https://i.ibb.co/mvwzDKy/pantalon-cintura-alta.jpg",
+        "id":12,
+        "categoria":"oficina",
+        "descripcion":"Pantalon a la cintura alta de color beige"
+      },
+      {
+        "nombre":"Zapatillas de Lona con Plataforma Blanco y Negro",
+        "precio":"$ 65.000",
+        "imagen":"https://i.ibb.co/cr06dPr/zapatillas-lona-plataforma.jpg",
+        "id":13,
+        "categoria":"casual",
+        "descripcion":"Zapatillas de Lona de color blanco y negro con plataforma."
+      },
+      {
+        "nombre":"Sweater Ancho Color Mostaza",
+        "precio":"$ 45.000",
+        "imagen":"https://i.ibb.co/18866cc/sweter-ancho.jpg",
+        "id":14,
+        "categoria":"casual",
+        "descripcion":"Sweater Ancho de color mostaza combinar idealmente con pantalones ajustados de modo de realzar el diferencial entre el oversize y el fitted"
+      },
+      {
+        "nombre":"Pantalón Cargo Gris",
+        "precio":"$ 40.000",
+        "imagen":"https://i.ibb.co/CtYY1s7/pantalon-cargo-gris.jpg",
+        "id":15,
+        "categoria":"casual",
+        "descripcion":"Pantalon cargo gris ideal para combinar con zapatillas o tacones y poleras con cintura despejada."
+      },
+      {
+        "nombre":"Zapatos Plataforma con acabado High-Gloss",
+        "precio":"$ 65.000",
+        "imagen":"https://i.ibb.co/2sVcY4h/zapatos-plataforma.jpg",
+        "id":16,
+        "categoria":"casual",
+        "descripcion":"Zapatos de plataforma con acabado charol o high gloss ideal para combinar con pantalones ajustados."
+      },
+      {
+        "nombre":"Jeans Pierna Ancha",
+        "precio":"$ 40.000",
+        "imagen":"https://i.ibb.co/Rc3RrFT/jeasn-pierna-ancha.jpg",
+        "id":17,
+        "categoria":"casual",
+        "descripcion":"Jeans Pierna Ancha ideal para estilos juveniles."
+      },
+      {
+        "nombre":"Cardigan Color Crema",
+        "precio":"$ 40.000",
+        "imagen":"https://i.ibb.co/DWN5jPv/cardigan-color-crema.jpg",
+        "id":18,
+        "categoria":"casual",
+        "descripcion":"Cardigan color crema claro ideal para un estilo semi formal."
+      }
+    ]
+  }
+  
